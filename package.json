@@ -1,9 +1,9 @@
 {
-  "name": "electron-updater-example",
+  "name": "pharmacie-de-la-mer-d-iroise",
   "version": "0.8.1",
   "main": "main.js",
   "description": "electron-updater example project",
-  "author": "Matt Haggard",
+  "author": "Jules Levassort",
   "scripts": {
     "publish": "electron-builder -p always"
   },
